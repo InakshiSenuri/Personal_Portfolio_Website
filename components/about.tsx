@@ -18,7 +18,7 @@ export default function About() {
     if(inView && Date.now() - timeOfLastClick > 1000) {
       setActiveSection("About");
     }
-  },[inView, setActiveSection]);
+  },[inView, setActiveSection, timeOfLastClick]);
   
   
   return (

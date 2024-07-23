@@ -65,7 +65,7 @@ export default function Projects() {
       <div className='flex flex-col items-center justify-center my-[130px] relative'>
         <div className='flex flex-col items-center justify-center mb-[40px]'>
           <div className='text-[26px] md:text-[36px] text-[#462C2C] font-bold'>PROJECTS</div>
-          <div className='text-[16px] md:text-[20px] text-[#EA8A8A] mt-[10px]'>THAT I'VE DEVELOPED / WORKED ON</div>
+          <div className='text-[16px] md:text-[20px] text-[#EA8A8A] mt-[10px]'>THAT I&apos;VE DEVELOPED / WORKED ON</div>
         </div>
         <div className='flex gap-[20px] md:gap-[30px] justify-center items-center'>
           <div className='text-xl md:text-3xl flex items-center justify-center rounded-full shadow-md bg-white h-[30px] w-[30px] md:h-[50px] md:w-[50px] hover:shadow-lg hover:shadow-[#eecdcd] cursor-pointer'>
