@@ -7,11 +7,10 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 
 // import { LuGraduationCap } from "react-icons/lu";
-import portofolioImg from "@/public/portofolioImg.png";
+import portofolioImg from "@/public/portfolio.jpg";
 import roboImg from "@/public/robo.jpeg"
 import doneImg from "@/public/done.jpeg"
 import ikonImg from "@/public/ikonImg.png"
-import aboutImg from "@/public/about.jpg";
 // import inakshiImg from "@/public/inakshi.jpg";
 
 export const links = [
