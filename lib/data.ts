@@ -6,8 +6,7 @@ import { FaInstagramSquare } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 
-// import { LuGraduationCap } from "react-icons/lu";
-import portofolioImg from "@/public/portfolio.jpg";
+import portfolioImg from "@/public/portofolio.jpg"
 import roboImg from "@/public/robo.jpeg"
 import doneImg from "@/public/done.jpeg"
 import ikonImg from "@/public/ikonImg.png"
@@ -104,7 +103,7 @@ export const projectsData = [
     id: 1,
     title: "Personal Portfolio",
     tags: ["Framer /", "TypeScript /" ,"Next.js /", "Tailwind "],
-    imageUrl: portofolioImg,
+    imageUrl: portfolioImg,
     Type: "Individual",
     GitLink: "https://github.com/Inakshi-07/portfolio",
     AppLink: "https://inakshi-07.github.io/portfolio/",
