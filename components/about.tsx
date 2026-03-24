@@ -27,7 +27,7 @@ export default function About() {
       <div  className='relative flex flex-col justify-center items-center z-10 md:p-4 text-center h-full'>
         <h2 className='text-[26px] md:text-[40px] text-[#462C2C] font-bold mb-[40px]'>About Me</h2>
         <p className='text-[16px] md:text-[22px] text-[#462C2C] w-[300px] md:w-[600px]'>
-          I am currently pursuing a BSc in Information Technology at the University of Moratuwa. As a full-stack developer, I have a passion for learning new technologies and am particularly interested in the DevOps field.
+          I am currently pursuing a BSc in Information Technology at the University of Moratuwa. As a  as a Quality Assurance Engineer, I have a passion for learning new technologies and delivering high-quality software.
           My goal is to leverage my skills and knowledge to bridge the gap between development and operations, ensuring efficient and reliable software delivery.
         </p>
       </div>

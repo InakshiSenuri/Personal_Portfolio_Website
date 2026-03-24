@@ -41,6 +41,15 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Simcentric Technologies",
+    Position: "Full Time QA Intern",
+    // description:
+    //   "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+    // icon: React.createElement(LuGraduationCap),
+    date: "2025 Mar - 2025 Oct",
+    imageUrl: "/expImg/simct.png",
+  },
+  {
     title: "Moraspirit Web and Tech Pillar",
     Position: "Pillar Member",
     // description:
@@ -78,16 +87,6 @@ export const experiencesData = [
     imageUrl: "/expImg/devlabs2.jpg",
   },
   {
-    title: "SEDS Web and Media Team",
-    Position: "Pillar Member",
-    // description:
-    //   "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    // icon: React.createElement(LuGraduationCap),
-    date: "2022/23",
-    imageUrl: "/expImg/seds.png",
-  },
-  
-  {
     title: "Aviation Club - DMC",
     Position: "Head Committee",
     // description:
@@ -119,11 +118,11 @@ export const projectsData = [
   },
   {
     id: 3,
-    title: "Done With IT",
-    tags: ["React Native /", "Tailwind"],
+    title: "QA Automation Project",
+    tags: ["Selenium /","Cucumber /", "TestNG /",  "Rest-Assured"],
     imageUrl: doneImg,
-    Type: "Individual",
-    GitLink: "https://github.com/Inakshi-07/portfolio",
+    Type: "Group",
+    GitLink: "https://github.com/PunsaraniJayawardhana/ITFac_Batch21_VerifyX_49",
     AppLink: "https://inakshi-07.github.io/portfolio/",
   },
   {
@@ -147,8 +146,16 @@ export const skillsData = [
         icon: "/iconsImg/sql.png",       
       },
       {
-        name: "Bootstrap",
-        icon: "/iconsImg/bootstrap.png",
+        name: "Selenium",
+        icon: "/iconsImg/selenium.png",
+      },
+      {
+        name: "Postman",
+        icon: "/iconsImg/postman.png",
+      },
+      {
+        name: "JMeter",
+        icon: "/iconsImg/jmeter.jpg",
       },
       {
         name: "React Native",  
